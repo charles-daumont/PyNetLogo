@@ -1,8 +1,8 @@
 
 This Git repository contains 3 versions of PyNetLogo.
-	- one world 		: fastest version but does not allow the multiple world creation. (to use if only one world is needed)
-	- multiple worlds 	: slower than the version above, but allows the multiple world creation.
-	- 3D world			: 3D PyNetLogo version.
+	- one world : fastest version but does not allow the multiple world creation. (to use if only one world is needed)
+	- multiple worlds : slower than the version above, but allows the multiple world creation.
+	- 3D world : 3D PyNetLogo version.
 
 PREREQUISITE OF USE	:
 	- install the latest version of Python 3.3.2 	: http://www.python.org/getit/
@@ -40,5 +40,5 @@ HOW TO USE IT :
 	- launch the Main.py file.
 
 RESSOURCES :
-	- free 3D models 	: http://alice.org/pandagallery/
+	- free 3D models : http://alice.org/pandagallery/
 	- Panda3D tutorials : http://www.panda3d.org/manual/index.php/Main_Page
